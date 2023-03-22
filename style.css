@@ -1,0 +1,19 @@
+.bodyBackground
+{
+    background-image:url('03b30de4739f3cd5747f4ea4e8b91e46.gif');
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-color: rgb(216, 130, 240);
+}
+#myCanvas
+{
+border-width: 10px;
+background-color: white;
+border-style: ridge;
+border-color: darkviolet;
+    
+}
+body{
+    text-align: center;
+}
